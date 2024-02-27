@@ -1,0 +1,131 @@
+cs1302-api:
+total 64
+-rw-r--r--. 1 myid  6658 May  1 14:08 APPENDIX_API.rst
+-rw-r--r--. 1 myid  4205 May  1 14:08 APPENDIX_GIT.rst
+drwxr-xr-x. 2 myid    47 May  6 12:47 meta
+-rw-r--r--. 1 myid  8370 May  1 14:08 pom.xml
+-rwxr-xr-x. 1 myid   105 May  1 14:08 prepare-merge.sh
+-rw-r--r--. 1 myid 26140 May  1 14:08 README.rst
+-rw-r--r--. 1 myid     0 May 11 16:44 rec20535
+drwxr-xr-x. 2 myid   142 May  5 17:10 resources
+-rwxr-xr-x. 1 myid   119 May  1 14:08 run.sh
+drwxr-xr-x. 4 myid    30 May  1 14:08 src
+drwxr-xr-x. 5 myid   104 May  6 12:34 target
+
+cs1302-api/meta:
+total 8
+-rw-r--r--. 1 myid  222 May  6 12:47 ATTRIBUTION.md
+-rw-r--r--. 1 myid 1685 May  6 12:44 DEADLINE.md
+
+cs1302-api/resources:
+total 2136
+-rw-r--r--. 1 myid      42 May  1 14:08 config.properties
+-rw-r--r--. 1 myid    4417 May  2 17:04 fishy.JPG
+-rw-r--r--. 1 myid   44715 May  5 17:10 nocover.png
+-rw-r--r--. 1 myid  582183 May  1 14:08 readme-banner.png
+-rw-r--r--. 1 myid 1540930 May  1 14:08 readme-newrepo.png
+
+cs1302-api/src:
+total 0
+drwxr-xr-x. 3 myid 26 May  1 14:08 main
+drwxr-xr-x. 3 myid 50 May  1 14:08 site
+
+cs1302-api/src/main:
+total 0
+drwxr-xr-x. 3 myid 56 May  1 14:08 java
+
+cs1302-api/src/main/java:
+total 4
+drwxr-xr-x. 3 myid  25 May  1 14:08 cs1302
+-rw-r--r--. 1 myid 373 May  1 14:08 module-info.java
+
+cs1302-api/src/main/java/cs1302:
+total 0
+drwxr-xr-x. 2 myid 241 May  6 12:34 api
+
+cs1302-api/src/main/java/cs1302/api:
+total 52
+-rw-r--r--. 1 myid 19519 May  6 12:34 ApiApp.java
+-rw-r--r--. 1 myid  1285 May  1 15:04 ApiDriver.java
+-rw-r--r--. 1 myid   976 May  6 12:24 FMResponse.java
+-rw-r--r--. 1 myid   133 May  6 12:24 MetObject.java
+-rw-r--r--. 1 myid   156 May  6 12:24 MetQResponse.java
+-rw-r--r--. 1 myid  4332 May  1 14:08 OpenLibrarySearchApi.java
+-rw-r--r--. 1 myid  1670 May  1 14:08 PropertiesExample.java
+-rw-r--r--. 1 myid   339 May  6 12:24 TagsResponse.java
+
+cs1302-api/src/site:
+total 4
+drwxr-xr-x. 2 myid  25 May  1 14:08 markdown
+-rw-r--r--. 1 myid 424 May  1 14:08 site.xml
+
+cs1302-api/src/site/markdown:
+total 4
+-rw-r--r--. 1 myid 133 May  1 14:08 index.md.vm
+
+cs1302-api/target:
+total 4
+drwxr-xr-x. 3 myid  157 May  6 12:34 classes
+drwxr-xr-x. 3 myid   33 May  6 12:34 generated-sources
+drwxr-xr-x. 3 myid   35 May  6 12:34 maven-status
+-rw-r--r--. 1 myid 1255 May  6 12:34 modulepath
+
+cs1302-api/target/classes:
+total 2140
+-rw-r--r--. 1 myid      42 May  6 12:34 config.properties
+drwxr-xr-x. 3 myid      17 May  6 12:34 cs1302
+-rw-r--r--. 1 myid    4417 May  6 12:34 fishy.JPG
+-rw-r--r--. 1 myid     354 May  6 12:34 module-info.class
+-rw-r--r--. 1 myid   44715 May  6 12:34 nocover.png
+-rw-r--r--. 1 myid  582183 May  6 12:34 readme-banner.png
+-rw-r--r--. 1 myid 1540930 May  6 12:34 readme-newrepo.png
+
+cs1302-api/target/classes/cs1302:
+total 4
+drwxr-xr-x. 2 myid 4096 May  6 12:34 api
+
+cs1302-api/target/classes/cs1302/api:
+total 92
+-rw-r--r--. 1 myid 18188 May  6 12:34 ApiApp.class
+-rw-r--r--. 1 myid  1503 May  6 12:34 ApiDriver.class
+-rw-r--r--. 1 myid   584 May  6 12:34 FMResponse$Album.class
+-rw-r--r--. 1 myid   706 May  6 12:34 FMResponse$Album$Images.class
+-rw-r--r--. 1 myid   510 May  6 12:34 FMResponse$Artist.class
+-rw-r--r--. 1 myid   696 May  6 12:34 FMResponse.class
+-rw-r--r--. 1 myid   586 May  6 12:34 FMResponse$Toptags.class
+-rw-r--r--. 1 myid   589 May  6 12:34 FMResponse$Toptags$Tags.class
+-rw-r--r--. 1 myid   824 May  6 12:34 FMResponse$Track.class
+-rw-r--r--. 1 myid   334 May  6 12:34 MetObject.class
+-rw-r--r--. 1 myid   308 May  6 12:34 MetQResponse.class
+-rw-r--r--. 1 myid  5993 May  6 12:34 OpenLibrarySearchApi.class
+-rw-r--r--. 1 myid   493 May  6 12:34 OpenLibrarySearchApi$OpenLibraryDoc.class
+-rw-r--r--. 1 myid   617 May  6 12:34 OpenLibrarySearchApi$OpenLibraryResult.class
+-rw-r--r--. 1 myid  1680 May  6 12:34 PropertiesExample.class
+-rw-r--r--. 1 myid   498 May  6 12:34 TagsResponse.class
+-rw-r--r--. 1 myid   602 May  6 12:34 TagsResponse$Toptags.class
+-rw-r--r--. 1 myid   603 May  6 12:34 TagsResponse$Toptags$Tags.class
+
+cs1302-api/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 10 May  6 12:34 annotations
+
+cs1302-api/target/generated-sources/annotations:
+total 0
+
+cs1302-api/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 May  6 12:34 maven-compiler-plugin
+
+cs1302-api/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 May  6 12:34 compile
+
+cs1302-api/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 64 May  6 12:34 default-compile
+
+cs1302-api/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid 668 May  6 12:34 createdFiles.lst
+-rw-r--r--. 1 myid 644 May  6 12:34 inputFiles.lst
+/home/myid/aj77884/cs1302-api:/home/myid/csci-1302
